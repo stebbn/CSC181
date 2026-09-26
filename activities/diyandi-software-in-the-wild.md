@@ -2,41 +2,41 @@
 
 > **Name:** Steve Nash H. Llamedo  
 > **Section:** CS3A
-> **Date submitted:** 2006-09-27
+> <br> **Date submitted:** 2006-09-26
 
 ---
 
 ## 1. User group
 
 **Who are you designing for?**  
-[Identify one specific group connected to Diyandi Festival sa Iligan. Examples: local residents, students, visitors, tourists, event attendees, performers, vendors, event organizers, safety personnel, senior citizens, persons with disabilities, parents, or local businesses.]
+Visitors
 
 **Why might this group need support during Diyandi?**  
-[Briefly explain the group’s situation, goals, or needs.]
+When we visit, or partake in the Diyandi festival we sometimes do not get the full event details or plans regarding areas that will be used for a event of the festival.
 
 ---
 
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-[Examples: Find events, receive schedule updates, locate a venue, navigate traffic, identify accessible facilities, promote products, coordinate performers, or report an issue.]
+Find the schedule of an event, updates, the list of ongoing events, and where it would be held in.
 
 ---
 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-[Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+There would be interruptions regarding the event, and having the location name alone is vague specially for visitors outside the city which makes going to the venue very difficult.
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+An interactable map that could be in the city's own gov app/website that would contain information about the events, and pin locations of where it would be held in and statuses regarding the event.
 
 **How would it help the intended users?**  
-[Explain how the solution responds to the problem you identified.]
+It makes it easier to navigate and plan ahead for the festival on what they would like to do. Specially for tourists having a digital platform for information regarding the event means the capability of being able to translate or change language of the tool to make it much more easier to use.
 
 ---
 
@@ -44,8 +44,8 @@
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. [Write the first user action here.]
-2. [Write the second user action here.]
+1. Navigate through out the system and see all the different locations where the event will be held in, and see the current updates/information of that event when clicking the location.
+2. Being able to see the full schedule of the festival in a time table manner and by clicking each event would redirect them into the full information of the event and even redirect the map into the event's location.
 
 ---
 
@@ -53,15 +53,15 @@ Describe **two specific actions** that users could perform using your proposed s
 
 Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
 
-### Quality 1: [Write a quality]
+### Quality 1: Ease of Access
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+Being able to easily navigate the system means we are able to improve and make the information of the festival more digestable for the target users.
 
-### Quality 2: [Write a quality]
+### Quality 2: Regular Updates
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+Since it is a festival, having interruptions and changes regarding an event is unavoidable and being able to show this updates cleanly is a important quality
 
 ---
 
@@ -69,22 +69,14 @@ Identify **two qualities** that would make your proposed system useful. You may 
 
 How could you determine whether your proposed solution actually helped users?
 
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
+Check for the changes in number where questions about event informations is being asked, and check the number of attendees for the event.
 
 ---
 
 ## 8. Screenshot or reference
 
-You may include **one screenshot** or reference image only if it does not contain personal, confidential, or sensitive information.
-
-> Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
-
-<!-- Example Markdown image syntax:
-![Brief description of screenshot](path/to/image.png)
--->
-
-**External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
+![first 3 images from left](assets/ref_festiv_app.png)
+The first 3 images from the left shows what I imagine the interactive tool would look like.
 
 ---
 
@@ -92,21 +84,11 @@ You may include **one screenshot** or reference image only if it does not contai
 
 Select **one** option below and complete the applicable details.
 
-- [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [/] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
-  **Purpose of use:**  
-  [Describe specifically how you used the tool. Examples: brainstorming possible user groups; clarifying an idea; checking grammar; generating possible questions to consider.]
-
-  **How I reviewed the output:**  
-  [Explain how you checked, revised, verified, or adapted the AI-generated output.]
-
-  **Prompt(s) or summary of interaction:**  
-  [Paste the main prompt(s) used, provide a link to the shared conversation if available, or summarize the interaction clearly enough for the instructor to understand the assistance received.]
-
 > I understand that I remain responsible for the accuracy, originality, and quality of this submission. I confirm that I reviewed and revised any AI-generated content and can explain all ideas submitted under my name.
-
 
 ---
 
@@ -114,4 +96,4 @@ Select **one** option below and complete the applicable details.
 
 I confirm that this work is based primarily on my own observation, experience, and reasoning. Any external sources or tools used have been acknowledged above.
 
-**Name:** [Write your full name]
+**Name:** Steve Nash H. Llamedo
