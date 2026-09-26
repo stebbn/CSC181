@@ -84,7 +84,7 @@ The first 3 images from the left shows what I imagine the interactive tool would
 
 Select **one** option below and complete the applicable details.
 
-- [/] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [x] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
