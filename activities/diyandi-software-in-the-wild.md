@@ -33,10 +33,10 @@ There would be interruptions regarding the event, and having the location name a
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-An interactable map that could be in the city's own gov app/website that would contain information about the events, and pin locations of where it would be held in and statuses regarding the event.
+An interactive map that could be in the city's own gov app/website that would contain information about the events, and pin locations of where it would be held in and statuses regarding the event.
 
 **How would it help the intended users?**  
-It makes it easier to navigate and plan ahead for the festival on what they would like to do. Specially for tourists having a digital platform for information regarding the event means the capability of being able to translate or change language of the tool to make it much more easier to use.
+It makes it easier to navigate and plan ahead for the festival on what they would like to do. Especially for tourists, having a digital platform for information regarding the event means the capability of being able to translate or change language of the tool to make it much more easier to use.
 
 ---
 
@@ -44,8 +44,8 @@ It makes it easier to navigate and plan ahead for the festival on what they woul
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. Navigate through out the system and see all the different locations where the event will be held in, and see the current updates/information of that event when clicking the location.
-2. Being able to see the full schedule of the festival in a time table manner and by clicking each event would redirect them into the full information of the event and even redirect the map into the event's location.
+1. Navigate throughout the system and see all the different locations where the event will be held, and see the current updates/information of that event when clicking the location.
+2. Being able to see the full schedule of the festival in a timetable manner, and by clicking each event would redirect them to the full information of the event and even redirect the map to the event's location.
 
 ---
 
@@ -56,12 +56,12 @@ Identify **two qualities** that would make your proposed system useful. You may 
 ### Quality 1: Ease of Access
 
 **Why does this matter to users?**  
-Being able to easily navigate the system means we are able to improve and make the information of the festival more digestable for the target users.
+Being able to easily navigate the system means we are able to improve and make the information of the festival more digestible for the target users.
 
 ### Quality 2: Regular Updates
 
 **Why does this matter to users?**  
-Since it is a festival, having interruptions and changes regarding an event is unavoidable and being able to show this updates cleanly is a important quality
+Since it is a festival, having interruptions and changes regarding an event is unavoidable, and being able to show these updates cleanly is an important quality. The app should be able to locally save these updates as well, since the signal gets cut off during the actual time of a major event.
 
 ---
 
@@ -69,7 +69,7 @@ Since it is a festival, having interruptions and changes regarding an event is u
 
 How could you determine whether your proposed solution actually helped users?
 
-Check for the changes in number where questions about event informations is being asked, and check the number of attendees for the event.
+Check for changes in the number where questions about event informations is being asked, and check the number of attendees for the event.
 
 ---
 
